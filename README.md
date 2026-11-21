@@ -21,3 +21,6 @@ The script does ***not*** print the files or make a PDF out of them.
 
 ## Printed result
 
+![alt text](https://github.com/cypresstwist/thermalcomics/blob/main/result1.jpg?raw=true)
+
+![alt text](https://github.com/cypresstwist/thermalcomics/blob/main/result2.jpg?raw=true)
